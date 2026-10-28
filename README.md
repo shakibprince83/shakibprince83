@@ -56,17 +56,79 @@ A MERN disaster monitoring and alert platform. My work includes Express routes, 
 
 **[Explore Durjog Prohori →](https://github.com/shakibprince83/Durjog_Prohori)**
 
-## My toolbox
+## 🧰 My toolbox
 
-| Area | Technologies & tools |
-| :--- | :--- |
-| Languages | JavaScript · PHP · Python · C · C++ · Java |
-| Web | React · Node.js · Express · HTML5 · CSS3 |
-| Databases | MySQL · PostgreSQL · MongoDB · SQL |
-| Data & ML | NumPy · scikit-learn · CatBoost · XGBoost · LightGBM · SHAP |
-| Development | Git · GitHub · Linux · VS Code · XAMPP |
-| Design & collaboration | Figma · Canva · Jira · ClickUp |
-| Productivity | Excel · PowerPoint · Word · Google Workspace · Overleaf / LaTeX |
+Tools I use to build, explore, design, and collaborate.
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" alt="Java" />
+</p>
+
+### 🌐 Web development
+
+<p>
+  <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoColor=white" alt="CSS3" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logoColor=white" alt="SQL" />
+</p>
+
+### 🧠 Data & machine learning
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" alt="CatBoost" />
+  <img src="https://img.shields.io/badge/XGBoost-178F76?style=for-the-badge&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge&logoColor=white" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/SHAP-E75480?style=for-the-badge&logoColor=white" alt="SHAP" />
+</p>
+
+### 🛠️ Development tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+</p>
+
+### 🎨 Design & collaboration
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" />
+</p>
+
+### ⚡ Productivity
+
+<p>
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logoColor=white" alt="MS Excel" />
+  <img src="https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logoColor=white" alt="PowerPoint" />
+  <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logoColor=white" alt="MS Word" />
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace" />
+  <img src="https://img.shields.io/badge/Overleaf_%2F_LaTeX-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf / LaTeX" />
+</p>
 
 ## Research beyond the browser
 
