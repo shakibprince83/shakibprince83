@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Md. Shakibul Hassan Prince — Web Developer</title>
+  <desc id="desc">An evergreen banner with mint geometric orbit lines and a code window illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#071E19"/>
+      <stop offset="1" stop-color="#14532D"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#86EFAC" opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#dots)"/>
+  <circle cx="1055" cy="170" r="205" fill="none" stroke="#4ADE80" opacity=".15"/>
+  <circle cx="1055" cy="170" r="151" fill="none" stroke="#86EFAC" opacity=".2"/>
+  <circle cx="1115" cy="65" r="12" fill="#BEF264"/>
+  <circle cx="920" cy="285" r="7" fill="#34D399"/>
+  <rect x="56" y="47" width="183" height="29" rx="14" fill="#86EFAC" fill-opacity=".12" stroke="#86EFAC" stroke-opacity=".3"/>
+  <text x="74" y="67" fill="#BBF7D0" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">HELLO, GITHUB</text>
+  <text x="56" y="142" fill="#F0FDF4" font-family="Arial,sans-serif" font-size="43" font-weight="700">Md. Shakibul</text>
+  <text x="56" y="195" fill="#F0FDF4" font-family="Arial,sans-serif" font-size="43" font-weight="700">Hassan Prince</text>
+  <rect x="57" y="220" width="48" height="4" rx="2" fill="#BEF264"/>
+  <text x="56" y="262" fill="#BBF7D0" font-family="Arial,sans-serif" font-size="20">Web Developer · CSE, UIU ’26</text>
+  <text x="56" y="297" fill="#86EFAC" font-family="Arial,sans-serif" font-size="15">Ideas into interfaces. Code into useful experiences.</text>
+  <rect x="813" y="104" width="276" height="158" rx="15" fill="#071E19" stroke="#4ADE80" stroke-opacity=".6"/>
+  <path d="M813 139H1089" stroke="#4ADE80" stroke-opacity=".25"/>
+  <circle cx="834" cy="122" r="4" fill="#34D399"/>
+  <circle cx="849" cy="122" r="4" fill="#BEF264"/>
+  <circle cx="864" cy="122" r="4" fill="#A7F3D0"/>
+  <text x="845" y="203" fill="#BBF7D0" font-family="monospace" font-size="39" font-weight="700">&lt; build /&gt;</text>
+  <path d="M845 227H967M982 227H1032" stroke="#34D399" stroke-width="4" stroke-linecap="round" opacity=".6"/>
+</svg>
